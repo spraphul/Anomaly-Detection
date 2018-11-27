@@ -2,15 +2,15 @@
 
 In the code i have run the following methods for anomaly detection:
 
-### 1 Angle-based Outlier Detector (ABOD)
-### 2 Histogram-base Outlier Detection (HBOS)
-### 3 K Nearest Neighbors (KNN)
-### 4 Average KNN
-### 5 Median KNN
-### 6 Local Outlier Factor (LOF)
-### 7 Minimum Covariance Determinant (MCD)
-### 8 One-class SVM (OCSVM)
-### 9 Principal Component Analysis (PCA)
+#### 1 Angle-based Outlier Detector (ABOD)
+#### 2 Histogram-base Outlier Detection (HBOS)
+#### 3 K Nearest Neighbors (KNN)
+#### 4 Average KNN
+#### 5 Median KNN
+#### 6 Local Outlier Factor (LOF)
+#### 7 Minimum Covariance Determinant (MCD)
+#### 8 One-class SVM (OCSVM)
+#### 9 Principal Component Analysis (PCA)
 
 
 I have run the outliers on all possible pairs of axes of data i.e., (1,2), (2,3) and (1,3)
